@@ -21,9 +21,9 @@
      Way - 3
           In terminal execute "chmod +x <filename.sh>"
           Execute "./<filename.sh>"
-               
-                     you can use 744 instead of +x (both are possible)
+          you can use 744 instead of +x (both are possible)
 <hr></hr>
+
 <h2>NOTE : </h2>
   
     Not all files can be interpreted by shell(sh)
