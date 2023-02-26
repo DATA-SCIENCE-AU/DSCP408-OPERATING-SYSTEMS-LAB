@@ -7,20 +7,11 @@
      EX12_PALINDROME.sh
 
 <hr></hr>
-<h2>NOTE : </h2>
-  
-    Not all files can be interpreted by shell(sh)
-    Use the bash (Bourne Again Shell) Instead
 
-<hr></hr>
-    
-    Try to add missing files
-    Feel free to change the code :)
 
-<hr></hr>
   
   
-        To execute the file 
+<h2>To execute the file</h2> 
                Way - 1 
                     In terminal execute  "bash <filename.sh>" 
                Way - 2
@@ -30,4 +21,14 @@
                     In terminal execute "chmod +x <filename.sh>"
                     ./<filename.sh>
                
-               Note : you can use 744 instead of +x (both are possible)
+                     you can use 744 instead of +x (both are possible)
+<hr></hr>
+<h2>NOTE : </h2>
+  
+    Not all files can be interpreted by shell(sh)
+    Use the bash (Bourne Again Shell) Instead
+
+<hr></hr>
+    
+    Try to add missing files
+    Feel free to change the code :)
