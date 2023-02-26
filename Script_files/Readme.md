@@ -20,7 +20,7 @@
           Note: It execute only the sh files not bash files ,where the way-1 executes both bash and sh files
      Way - 3
           In terminal execute "chmod +x <filename.sh>"
-          ./<filename.sh>
+          Execute "./<filename.sh>"
                
                      you can use 744 instead of +x (both are possible)
 <hr></hr>
