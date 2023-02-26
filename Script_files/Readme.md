@@ -12,14 +12,15 @@
   
   
 <h2>To execute the file</h2> 
-               Way - 1 
-                    In terminal execute  "bash <filename.sh>" 
-               Way - 2
-                    In terminal execute "sh <filename.sh>"
-                    Note: It execute only the sh files not bash files ,where the way-1 executes both bash and sh files
-               Way - 3
-                    In terminal execute "chmod +x <filename.sh>"
-                    ./<filename.sh>
+    
+     Way - 1 
+          In terminal execute  "bash <filename.sh>" 
+     Way - 2
+          In terminal execute "sh <filename.sh>"
+          Note: It execute only the sh files not bash files ,where the way-1 executes both bash and sh files
+     Way - 3
+          In terminal execute "chmod +x <filename.sh>"
+          ./<filename.sh>
                
                      you can use 744 instead of +x (both are possible)
 <hr></hr>
