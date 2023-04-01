@@ -21,7 +21,7 @@ v=$1
                 }
             }
         }
-        printf("\nAscending Order Elements =>\n",n)
+        printf("\nElements After sorted =>\n",n)
         for(i=0;i<n;i++)
             printf("%d  ",s[i]);
         printf("\n")
